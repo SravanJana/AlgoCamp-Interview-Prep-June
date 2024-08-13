@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlgoCamp-Interview-Prep-June.iml" filepath="$PROJECT_DIR$/.idea/AlgoCamp-Interview-Prep-June.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays&amp;Hashing-Part1/Arrays&amp;Hashing-Part1.iml" filepath="$PROJECT_DIR$/Arrays&amp;Hashing-Part1/Arrays&amp;Hashing-Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays&amp;Hashing-Part2/Arrays&amp;Hashing-Part2.iml" filepath="$PROJECT_DIR$/Arrays&amp;Hashing-Part2/Arrays&amp;Hashing-Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays&amp;Hashing_Part3/Arrays&amp;Hashing_Part3.iml" filepath="$PROJECT_DIR$/Arrays&amp;Hashing_Part3/Arrays&amp;Hashing_Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_L1/LinkedList_L1.iml" filepath="$PROJECT_DIR$/LinkedList_L1/LinkedList_L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_L2/LinkedList_L2.iml" filepath="$PROJECT_DIR$/LinkedList_L2/LinkedList_L2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_L3/LinkedList_L3.iml" filepath="$PROJECT_DIR$/LinkedList_L3/LinkedList_L3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_Part1/Stacks_Part1.iml" filepath="$PROJECT_DIR$/Stacks_Part1/Stacks_Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_Part3/Stacks_Part3.iml" filepath="$PROJECT_DIR$/Stacks_Part3/Stacks_Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_part2/Stacks_part2.iml" filepath="$PROJECT_DIR$/Stacks_part2/Stacks_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_part5/Stacks_part5.iml" filepath="$PROJECT_DIR$/Stacks_part5/Stacks_part5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoPointers_Part2/TwoPointers_Part2.iml" filepath="$PROJECT_DIR$/TwoPointers_Part2/TwoPointers_Part2.iml" />
+    </modules>
+  </component>
+</project>

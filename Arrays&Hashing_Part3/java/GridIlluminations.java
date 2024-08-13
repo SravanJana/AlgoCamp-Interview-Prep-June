@@ -1,11 +1,13 @@
+import java.util.HashMap;
+import java.util.Map;
 
-class Solution {
+public class Solution {
     int[][] dirs = {{0,1}, {0,-1}, {1,0}, {-1,0}, {1,1}, {1,-1}, {-1,1}, {-1,-1}, {0,0}};
     
 	public int[] gridIllumination(int N, int[][] lamps, int[][] queries) {
-        Map<Integer, Integer> m1 = new HashMap();       // row number to count of lamps
-        Map<Integer, Integer> m2 = new HashMap();       // col number to count of lamps
-        Map<Integer, Integer> m3 = new HashMap();       // diagonal x-y to count of lamps
+        Map<Integer, Integer> m1 = new HashMap<>();       // row number to count of lamps
+        Map<Integer, Integer> m2 = new HashMap<>();       // col number to count of lamps
+        Map<Integer, Integer> m3 = new HashMap<>();       // diagonal x-y to count of lamps
         Map<Integer, Integer> m4 = new HashMap();       // diagonal x+y to count of lamps
         Map<Integer, Integer> m5 = new HashMap();       // whether lamp is  ON|OFF
         
